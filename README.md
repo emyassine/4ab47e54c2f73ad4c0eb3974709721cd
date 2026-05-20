@@ -1,5 +1,5 @@
 # A HOW TO
-
+```bash
 rm -rf .git
 git init
 git add .
@@ -11,3 +11,4 @@ git fetch origin main
 git rebase -X theirs origin/main
 
 git push -u origin main
+```
